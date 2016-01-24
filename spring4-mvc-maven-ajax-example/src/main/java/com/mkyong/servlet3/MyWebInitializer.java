@@ -9,7 +9,7 @@ public class MyWebInitializer extends
 
 	@Override
 	protected Class<?>[] getServletConfigClasses() {
-		return new Class[] { SpringWebConfig.class }; //test
+		return new Class[] { SpringWebConfig.class }; //test 7:57
 	}
 
 	@Override
