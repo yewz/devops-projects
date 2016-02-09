@@ -1,0 +1,26 @@
+#surefire
+#Tue Jan 26 20:42:52 EST 2016
+testClassesDirectory=C\:\\Users\\wzhao\\git\\devops-projects\\jacoco\\target\\test-classes
+classPathUrl.3=C\:\\Users\\wzhao\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.1\\hamcrest-core-1.1.jar
+classPathUrl.2=C\:\\Users\\wzhao\\.m2\\repository\\junit\\junit\\4.10\\junit-4.10.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\Users\\wzhao\\git\\devops-projects\\jacoco\\target\\classes
+reportsDirectory=C\:\\Users\\wzhao\\git\\devops-projects\\jacoco\\target\\surefire-reports
+classPathUrl.0=C\:\\Users\\wzhao\\git\\devops-projects\\jacoco\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\wzhao\\git\\devops-projects\\jacoco\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\wzhao\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.13\\surefire-api-2.13.jar
+surefireClassPathUrl.0=C\:\\Users\\wzhao\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.13\\surefire-junit4-2.13.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=com.example.jacoco.RectangleTestCase
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=C\:\\Users\\wzhao\\git\\devops-projects\\jacoco\\.surefire-E17FE8285272E8252CE06CC1EBCCBC957B69EBF0
+includes0=**/Test*.java
+preferTestsFromInStream=false
+childDelegation=false
